@@ -1,4 +1,4 @@
-<nav class="relative container mx-auto p-5 font-mono font-bold top-0">
+<nav class="relative container mx-auto p-5 font-mono font-bold">
     <div class="flex items-center justify-between ">
      <h2 class="pt-2 font-mono font-bold text-2xl"> Hygiene </h2>
      <!----- menu -->
@@ -13,7 +13,7 @@
    
      </div>
     </div>
-    <div  id= "niv" class="lg:hidden mt-2 flex flex-row justify-between bg-teal-200 text-#a31f8d">
+    <div  id= "niv" class="lg:hidden mt-2 flex flex-row justify-between bg-teal-200">
       <a href="/about" class="p-2 bg-teal-200   hover:text-violet-600">About</a>
       <a href="/about" class="p-2 bg-teal-200  hover:text-violet-600">About</a>
       <a href="/about" class="p-2 bg-teal-200  hover:text-violet-600">About</a>
