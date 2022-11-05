@@ -13,9 +13,8 @@
    
      </div>
     </div>
-    <div  id= "niv" class="lg:hidden mt-2 flex flex-row justify-between bg-teal-200 text-white">
+    <div  id= "niv" class="lg:hidden mt-2 flex flex-row justify-between bg-teal-200 text-#a31f8d">
       <a href="/about" class="p-2 bg-teal-200   hover:text-violet-600">About</a>
-      <a href="/about" class="p-2 bg-teal-200  hover:text-violet-600">About</a>
       <a href="/about" class="p-2 bg-teal-200  hover:text-violet-600">About</a>
       <a href="/about" class="p-2 bg-teal-200  hover:text-violet-600">About</a>
       <a href="/about" class="p-2 bg-teal-200  hover:text-violet-600">About</a>
